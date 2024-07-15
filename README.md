@@ -1,1 +1,1 @@
-# studentapp-be
+# Backend for Student CRUD App with Springboot
